@@ -5,8 +5,10 @@
   <title>test Labo Web</title>
 </head>
 <body>
+	<h1 style="text-align: center;">Exo Labo Web - ESGI 2015</h1>
 <?php 
-	echo "hello Worldddhhhhhhhhh";
+	echo "Hello World<br>";
+	echo "Bienvenue sur Master";
  ?>
 </body>
 </html>
