@@ -8,7 +8,7 @@
 	<h1 style="text-align: center;">Exo Labo Web - ESGI 2015</h1>
 <?php 
 	echo "Hello World";
-	echo "Bienvenu sur Master";
+	echo "Bienvenu sur ma branche 'labo_branche1'";
  ?>
 </body>
 </html>
